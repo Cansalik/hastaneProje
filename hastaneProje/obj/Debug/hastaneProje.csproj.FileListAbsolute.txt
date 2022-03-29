@@ -1,0 +1,92 @@
+C:\Users\cansa\source\repos\hastaneProje\hastaneProje\bin\Debug\hastaneProje.exe.config
+C:\Users\cansa\source\repos\hastaneProje\hastaneProje\bin\Debug\hastaneProje.exe
+C:\Users\cansa\source\repos\hastaneProje\hastaneProje\bin\Debug\hastaneProje.pdb
+C:\Users\cansa\source\repos\hastaneProje\hastaneProje\obj\Debug\hastaneProje.csprojAssemblyReference.cache
+C:\Users\cansa\source\repos\hastaneProje\hastaneProje\obj\Debug\hastaneProje.Properties.Resources.resources
+C:\Users\cansa\source\repos\hastaneProje\hastaneProje\obj\Debug\hastaneProje.csproj.GenerateResource.cache
+C:\Users\cansa\source\repos\hastaneProje\hastaneProje\obj\Debug\hastaneProje.csproj.CoreCompileInputs.cache
+C:\Users\cansa\source\repos\hastaneProje\hastaneProje\obj\Debug\hastaneProje.exe
+C:\Users\cansa\source\repos\hastaneProje\hastaneProje\obj\Debug\hastaneProje.pdb
+C:\Users\cansa\source\repos\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmBrans.resources
+C:\Users\cansa\source\repos\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmDoktorBilgiDuzenle.resources
+C:\Users\cansa\source\repos\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmDoktorDetay.resources
+C:\Users\cansa\source\repos\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmDoktorGiris.resources
+C:\Users\cansa\source\repos\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmDoktorPaneli.resources
+C:\Users\cansa\source\repos\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmDuyurular.resources
+C:\Users\cansa\source\repos\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmGirisler.resources
+C:\Users\cansa\source\repos\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmHastaDetay.resources
+C:\Users\cansa\source\repos\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmHastaGiris.resources
+C:\Users\cansa\source\repos\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmHastaKayit.resources
+C:\Users\cansa\source\repos\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmRandevuListesi.resources
+C:\Users\cansa\source\repos\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmSekreterDetay.resources
+C:\Users\cansa\source\repos\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmSekreterGiris.resources
+C:\Users\cansa\source\repos\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmBilgiDuzenle.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\bin\Debug\hastaneProje.exe.config
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\bin\Debug\hastaneProje.exe
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\bin\Debug\hastaneProje.pdb
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.csprojAssemblyReference.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmBilgiDuzenle.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmBrans.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmDoktorBilgiDuzenle.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmDoktorDetay.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmDoktorGiris.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmDoktorPaneli.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmDuyurular.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmGirisler.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmHastaDetay.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmHastaGiris.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmHastaKayit.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmRandevuListesi.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmSekreterDetay.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmSekreterGiris.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.Properties.Resources.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.csproj.GenerateResource.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.csproj.CoreCompileInputs.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.exe
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.pdb
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\bin\Debug\hastaneProje.exe.config
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\bin\Debug\hastaneProje.exe
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\bin\Debug\hastaneProje.pdb
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.csprojAssemblyReference.cache
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmBilgiDuzenle.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmBrans.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmDoktorBilgiDuzenle.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmDoktorDetay.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmDoktorGiris.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmDoktorPaneli.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmDuyurular.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmGirisler.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmHastaDetay.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmHastaGiris.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmHastaKayit.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmRandevuListesi.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmSekreterDetay.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmSekreterGiris.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.Properties.Resources.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.csproj.GenerateResource.cache
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.csproj.CoreCompileInputs.cache
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.exe
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.pdb
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\hastaneProje\hastaneProje\bin\Debug\hastaneProje.exe.config
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\hastaneProje\hastaneProje\bin\Debug\hastaneProje.exe
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\hastaneProje\hastaneProje\bin\Debug\hastaneProje.pdb
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.csproj.AssemblyReference.cache
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmBilgiDuzenle.resources
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmBrans.resources
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmDoktorBilgiDuzenle.resources
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmDoktorDetay.resources
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmDoktorGiris.resources
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmDoktorPaneli.resources
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmDuyurular.resources
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmGirisler.resources
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmHastaDetay.resources
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmHastaGiris.resources
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmHastaKayit.resources
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmRandevuListesi.resources
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmSekreterDetay.resources
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.FrmSekreterGiris.resources
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.Properties.Resources.resources
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.csproj.GenerateResource.cache
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.csproj.CoreCompileInputs.cache
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.exe
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\hastaneProje\hastaneProje\obj\Debug\hastaneProje.pdb
